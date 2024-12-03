@@ -1,0 +1,138 @@
+[
+    {
+      "name": "Alice Wonderland",
+      "email": "alice.wonderland@example.com",
+      "password": "password123",
+      "tasks": [
+        { "description": "Investigate the strange occurrences in the forest" },
+        { "description": "Write a report for the Queen of Hearts" }
+      ]
+    },
+    {
+      "name": "Bob Builder",
+      "email": "bob.builder@example.com",
+      "password": "bobbuilder123",
+      "tasks": [
+        { "description": "Fix the broken bridge near the river" },
+        { "description": "Construct a new storage shed" }
+      ]
+    },
+    {
+      "name": "Charlie Black",
+      "email": "charlie.black@example.com",
+      "password": "charlie123",
+      "tasks": [
+        { "description": "Hack into the secret database" },
+        { "description": "Cover up the traces of yesterday's heist" }
+      ]
+    },
+    {
+      "name": "Dana Blue",
+      "email": "dana.blue@example.com",
+      "password": "danablue123",
+      "tasks": [
+        { "description": "Fix the power outage in downtown" },
+        { "description": "Run diagnostics on the city's mainframe" }
+      ]
+    },
+    {
+      "name": "Eve Red",
+      "email": "eve.red@example.com",
+      "password": "eve12345",
+      "tasks": [
+        { "description": "Prepare the launch of the new marketing campaign" },
+        { "description": "Review the final draft of the product brochure" }
+      ]
+    },
+    {
+      "name": "Fay Green",
+      "email": "fay.green@example.com",
+      "password": "faygreen123",
+      "tasks": [
+        { "description": "Clean the research lab after the experiment" },
+        { "description": "Prepare lunch for the team" }
+      ]
+    },
+    {
+      "name": "George White",
+      "email": "george.white@example.com",
+      "password": "george1234",
+      "tasks": [
+        { "description": "Finalize the construction blueprint" },
+        { "description": "Conduct a site inspection for safety" }
+      ]
+    },
+    {
+      "name": "Holly Gold",
+      "email": "holly.gold@example.com",
+      "password": "hollygold123",
+      "tasks": [
+        { "description": "Create the new product logo" },
+        { "description": "Work on the branding strategy" }
+      ]
+    },
+    {
+      "name": "Ian Stark",
+      "email": "ian.stark@example.com",
+      "password": "ianstark123",
+      "tasks": [
+        { "description": "Defend the northern borders from the wildlings" },
+        { "description": "Prepare the troops for the winter campaign" }
+      ]
+    },
+    {
+      "name": "Julia Violet",
+      "email": "julia.violet@example.com",
+      "password": "juliaviolet123",
+      "tasks": [
+        { "description": "Organize the charity ball" },
+        { "description": "Coordinate with the catering team" }
+      ]
+    },
+    {
+      "name": "Kevin Silver",
+      "email": "kevin.silver@example.com",
+      "password": "kevinsilver123",
+      "tasks": [
+        { "description": "Prepare the quarterly financial report" },
+        { "description": "Create a new financial forecasting model" }
+      ]
+    },
+    {
+      "name": "Lena Swift",
+      "email": "lena.swift@example.com",
+      "password": "lena1234",
+      "tasks": [
+        { "description": "Write the final chapter of the novel" },
+        { "description": "Submit the manuscript for publication" }
+      ]
+    },
+    {
+      "name": "Milo Jet",
+      "email": "milo.jet@example.com",
+      "password": "milo1234",
+      "tasks": [
+        { "description": "Test the new prototype drone" },
+        { "description": "Coordinate the aerial surveillance mission" }
+      ]
+    },
+    {
+      "name": "Nina Faye",
+      "email": "nina.faye@example.com",
+      "password": "nina12345",
+      "tasks": [
+        { "description": "Prepare for the international conference" },
+        { "description": "Write a keynote speech for the conference" }
+      ]
+    },
+    {
+      "name": "Oscar Night",
+      "email": "oscar.night@example.com",
+      "password": "oscar1234",
+      "tasks": [
+        { "description": "Plan the gala dinner for the award ceremony" },
+        { "description": "Send invitations to the VIP guests" }
+      ]
+    }
+  ]
+  
