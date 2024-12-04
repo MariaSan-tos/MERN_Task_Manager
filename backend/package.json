@@ -11,7 +11,7 @@
     "Task manager",
     "Tasks"
   ],
-  "author": "",
+  "author": " ",
   "license": "ISC",
   "description": "The backend part of simple task manager with user authentication",
   "dependencies": {
