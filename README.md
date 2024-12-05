@@ -6,7 +6,7 @@
    npm run install-all
    ```
 
-2. Create a file named ".env" inside the backend folder. Add data from .env.example file and substitute your credentials there.
+2. Create a file named ".env" inside the backend folder and root. Add data from .env.example file and substitute your credentials there.
 
 3. Start the application
 
